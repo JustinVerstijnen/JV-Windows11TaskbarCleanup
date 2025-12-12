@@ -28,3 +28,4 @@ Set-ItemProperty `
  -Value 0
 
 Stop-Process -Name explorer -Force
+Start-Process -Name explorer
